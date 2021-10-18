@@ -1,14 +1,14 @@
 # Brief Description of /[Topic]
-    These directories will contain solutions to LeetCode problems
+These directories will contain solutions to LeetCode problems
     based on a specific category (e.g., Arrays, Strings, Hashmaps, etc.).
 
 ## How this will work (my plan):
-    I will spend 2 days each week reviewing 4 LeetCode questions based
+I will spend 2 days each week reviewing 4 LeetCode questions based
     on a specific topic (one day = 2 questions), and then another 2
     days reviewing the previous questions/solutions.
 
 # Brief Description of /Algorithm-Practice
-    This directory will include various commonly algorithms.
+This directory will include various commonly algorithms.
 
 ## How this will work (my plan):
 * A new algorithm will be added each week. Time will be spent learning,
