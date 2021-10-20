@@ -34,3 +34,5 @@ This directory will include various commonly algorithms.
 # Neat Resources
 * [Welcome to the Coding Interview - You Suck](https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit)
 * [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
+* [Blind 75 LeetCode Questions](https://docs.google.com/spreadsheets/d/1ULMmKYxJPKLzRY1vW68nzr7Uwofp4T_Ni8rg-r3G0sI/edit?usp=sharing)
+* [Topic Based LeetCode Questions - My Progress](https://docs.google.com/spreadsheets/d/1tShrmLE-Icajxz_WgzIKiS99r419jaZFhpKAiCTaM2k/edit?usp=sharing)
