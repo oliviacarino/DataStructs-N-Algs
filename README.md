@@ -1,6 +1,8 @@
 # Brief Description of /[Topic]
-These directories will contain solutions to LeetCode problems
-    based on a specific category (e.g., Arrays, Strings, Hashmaps, etc.).
+These directories will contain:
+* Solutions to LeetCode problems based on a specific category (e.g., Arrays, Strings, Hashmaps, etc.)
+* Data Structures practice
+* Algorithms practice
 
 ## How this will work (my plan):
 I will spend 2 days each week reviewing 4 LeetCode questions based
@@ -21,7 +23,7 @@ This directory will include various commonly algorithms.
     Time: 1 day, 1-2 hours/day (or as time permits).
 
 ## Comments
-* I will be documenting each algorithm within a Google doc: [Link](https://docs.google.com/document/d/1_7j3ger1A6avkL0r4ZzcuKe-OHbnV0NxHKokwY5vFlU/edit?usp=sharing)
+* I will be documenting each algorithm within a Google doc: [Link](https://docs.google.com/document/d/1_7j3ger1A6avkL0r4ZzcuKe-OHbnV0NxHKokwY5vFlU/edit?usp=sharing) and each data structure here [Link](https://docs.google.com/document/d/1-HOth5rvL0N4TsnugZ77MdBWG96_87R2K6caT0LE4K0/edit#)
 * My goal with this activity is to be as consistent as possible,
     and listen to my mental health, i.e., modify workload as needed
     to prevent burnout.
