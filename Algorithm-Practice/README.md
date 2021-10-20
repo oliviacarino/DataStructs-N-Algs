@@ -1,6 +1,9 @@
 # Brief Description
 This directory will include various commonly algorithms.
 
+## Algorithms:
+* Binary Search
+
 ## How this will work (my plan):
 * A new algorithm will be added each week. Time will be spent learning,
     implementing, and applying the current algorithm for 5 - 6 days with
