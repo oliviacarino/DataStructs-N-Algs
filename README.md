@@ -4,7 +4,7 @@ These directories will contain:
 * Data Structures practice
 * Algorithms practice
 
-## How this will work (my plan):
+## How LeetCode will work (my plan): *** This will be on pause until I'm confident in my DS and Algs ***
 I will spend 2 days each week reviewing 4 LeetCode questions based
     on a specific topic (one day = 2 questions), and then another 2
     days reviewing the previous questions/solutions.
@@ -33,3 +33,6 @@ This directory will include various commonly algorithms.
 
 # Neat Resources
 * [Welcome to the Coding Interview - You Suck](https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit)
+* [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
+* [Blind 75 LeetCode Questions](https://docs.google.com/spreadsheets/d/1ULMmKYxJPKLzRY1vW68nzr7Uwofp4T_Ni8rg-r3G0sI/edit?usp=sharing)
+* [Topic Based LeetCode Questions - My Progress](https://docs.google.com/spreadsheets/d/1tShrmLE-Icajxz_WgzIKiS99r419jaZFhpKAiCTaM2k/edit?usp=sharing)
