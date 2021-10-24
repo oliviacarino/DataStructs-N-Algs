@@ -48,8 +48,10 @@ public class BinarySearch {
     } // binarySearch
 
     public static void main(String[] args) {
-        int nums[] = {2, 5, 6, 8, 9, 10};
-        int target = 5; // change me
+//        int nums[] = {2, 5, 6, 8, 9, 10};
+        int nums[] = {1,4,10,27,34,101,258};
+//        int target = 5; // change me
+        int target = 10;
         int index = binarySearch(nums, target);
         if (index != -1) {
             System.out.println("Element found at index: " + index);
