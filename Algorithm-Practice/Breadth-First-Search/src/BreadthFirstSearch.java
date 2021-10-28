@@ -1,6 +1,7 @@
-// simple implementation of BFS
+// simple implementation of BFS -- on a Graph
 
 import java.util.*;
+
 
 class BreadthFirstSearch {
 
@@ -98,5 +99,6 @@ class BreadthFirstSearch {
             } // if
         } // for
         System.out.println();
+
     } // main
 } // BreadthFirstSearch
